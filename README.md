@@ -34,7 +34,7 @@ Whether you're in marketing, customer success, or strategy, this dashboard enabl
 
 ## 🎬 Live Demo
 
-[![Watch the demo]([media/demo-thumbnail.png](https://github.com/Krishna0-0/Telecom-Churn-Aanalysis-and-Retention-Strategy/blob/main/thumbnail.jpg))]([https://www.youtube.com/watch?v=your_video_id](https://youtu.be/9E8jcEZPZ3w))
+[![Watch the demo](https://github.com/Krishna0-0/Telecom-Churn-Aanalysis-and-Retention-Strategy/blob/main/thumbnail.jpg)](https://youtu.be/9E8jcEZPZ3w)
 
 
 ## 📁 File Contents
