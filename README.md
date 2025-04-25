@@ -34,8 +34,9 @@ Whether you're in marketing, customer success, or strategy, this dashboard enabl
 
 ## 🎬 Live Demo
 
-[![Watch the dashboard in action in the video below:](m[edia/demo-thumbnail.png](https://github.com/user-attachments/assets/8b1009f7-bcc6-4837-a5d1-61b250e84876))](h[ttps://www.youtube.com/watch?v=your_video_id](https://youtu.be/9E8jcEZPZ3w))
+Watch the dashboard in action in the video below:
 
+[![thumbnail](https://github.com/user-attachments/assets/10b87fbe-ff20-4bdb-998f-953fd273294c)]([https://www.youtube.com/watch?v=your_video_id](https://youtu.be/9E8jcEZPZ3w))
 
 
 ## 📁 File Contents
