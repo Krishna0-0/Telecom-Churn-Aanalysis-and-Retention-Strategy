@@ -1,4 +1,4 @@
-# 🚀 Telecom-Churn-Aanalysis-and-Retention-Strategy – Power BI
+# 🚀 Telecom-Churn-Analysis-and-Retention-Strategy-using-AI – Power BI
 
 Welcome to a powerful and visually intuitive **Customer Churn Analysis Dashboard**, developed using _Microsoft Power BI_. This interactive business intelligence tool is built to help the organization better understand customer behavior, identify churn risks, and make informed decisions to improve customer retention.
 This project bridges the gap between data and decision-making by transforming raw customer data into actionable insights through sleek design, smart filtering, and impactful storytelling.
